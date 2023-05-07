@@ -9,6 +9,12 @@
   "keywords": [
     "node-red"
   ],
+  "dependencies": {
+    "util": "*",
+    "events": "*",
+    "fs-extra": "*",
+    "path": "*"
+  },
   "node-red": {
     "version": ">=2.0.0",
     "nodes": {
